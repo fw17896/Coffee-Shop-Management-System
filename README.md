@@ -21,7 +21,7 @@ A Java-based Coffee Shop Management System featuring a Graphical User Interface 
     - All data (customers, staff, products, inventory) is saved and loaded via serialization, ensuring persistence across sessions.
 
 - Robust Exception Handling
-    Handles all common runtime issues like invalid inputs, missing files, and null pointers.
+    - Handles all common runtime issues like invalid inputs, missing files, and null pointers.
 
 - Java Swing GUI
     Clean and interactive graphical interface for staff and customer operations using Java Swing.
